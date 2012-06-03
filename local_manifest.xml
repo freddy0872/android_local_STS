@@ -8,7 +8,6 @@
   <remove-project name="platform/hardware/ti/omap3" />
   <remove-project name="platform/hardware/ti/omap4xxx" />
   <remove-project name="platform/external/icu4c" />
-  <remove-project name="AOKP/android_build" />
   <remove-project name="AOKP/frameworks_base" />
   <remove-project name="AOKP/packages_apps_Phone" />
   <remove-project name="AOKP/system_core" />
@@ -20,9 +19,6 @@
   <remove-project name="AOKP/packages_apps_Settings" />
 
   <!-- AOKP replacements -->
-  <project path="build" name="dhacker29/android_build" revision="ics" remote="gh" >
-    <copyfile src="core/root.mk" dest="Makefile" />
-  </project>
   <project path="frameworks/base" name="STS-Dev-Team/android_frameworks_base" revision="ics-aokp" remote="gh" />
   <project path="system/core" name="STS-Dev-Team/android_system_core" revision="ics" remote="gh" />
   <project path="packages/apps/Phone" name="STS-Dev-Team/android_packages_apps_Phone" revision="ics-aokp" remote="gh" />
