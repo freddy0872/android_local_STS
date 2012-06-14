@@ -30,6 +30,7 @@
 
   <!-- Omapzoom Projects -->
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="memmgr_1.0" />
+  <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" remote="omapzoom" revision="gingerbread"/>
 
   <!-- local projects -->
   <project path="device/motorola/targa" name="STS-Dev-Team/android_device_motorola_targa" />
