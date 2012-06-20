@@ -14,7 +14,6 @@
   <remove-project name="AOKP/vendor_moto" />
   <remove-project name="AOKP/android_hardware_ti_wpan" />
   <remove-project name="AOKP/vendor_qcom_opensource_kernel-tests_mm-audio" />
-  <remove-project name="AOKP/device_amazon_otter" />
   <remove-project name="AOKP/packages_apps_Settings" />
 
   <!-- AOKP replacements -->
