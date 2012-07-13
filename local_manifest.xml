@@ -24,6 +24,6 @@
   <project path="external/bltsville" name="platform/external/bltsville" remote="omapzoom" revision="master"/>
 
   <!-- spyder kernel for modules -->
-  <project path="kernel/motorola/omap4_xt912" name="STS-Dev-Team/kernel_omap4_xt912" remote="gh" revision="master" />
+  <project path="kernel/motorola/omap4_xt912" name="STS-Dev-Team/kernel_omap4_xt912" remote="gh" revision="jellybean" />
 
 </manifest>
